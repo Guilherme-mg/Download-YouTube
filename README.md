@@ -8,9 +8,9 @@ utilizando a biblioteca pytube, funcionando somente no windows.
 Testado no Python 3.10.0
 Instalar a biblioteca pytube
 
-'''
+```
 pip install pytube
-'''
+```
 
 ## Uso
 Selecione a opção de fazer download do video ou somente do áudio e adicione o link do video.
