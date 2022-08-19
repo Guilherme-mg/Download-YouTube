@@ -6,7 +6,7 @@ utilizando a biblioteca pytube, funcionando somente no windows.
 
 ## Pré-requisitos
 
-Testado no Python 3.10.0
+Testado no Python 3.10.0 e
 Instalar a biblioteca pytube
 
 ```
